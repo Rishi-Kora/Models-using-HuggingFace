@@ -27,7 +27,7 @@ A curated collection of Jupyter notebooks and scripts demonstrating how to load,
 
 ## Repository Structure
 ```
-.
+
 ├── Models_using_HuggingFace.ipynb
 └── README.md
 ```
