@@ -22,7 +22,7 @@ A curated collection of Jupyter notebooks and scripts demonstrating how to load,
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   !pip install -r requirements.txt
    ```
 
 ## Repository Structure
